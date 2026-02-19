@@ -1,4 +1,6 @@
-Business Problem (Problem Definition)
+
+-Business Problem (Problem Definition)
+
 This analysis aims to improve operational efficiency and understand customer preferences by examining order data on the Swiggy platform. Key focus areas include:
 
 Seeing how total sales fluctuate on a monthly, weekly, and daily basis.
@@ -7,7 +9,10 @@ Comparing revenue contribution by food type (Veg vs Non-Veg).
 
 Determining performance distribution by geography (State and City based).
 
-Key Performance Indicators (KPIs)
+
+
+-Key Performance Indicators (KPIs)
+
 The following metrics were tracked within the project:
 
 Total Sales: Overall revenue from food orders.
